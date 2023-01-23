@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!! Eu sou o Rennan. 🖖👋
 
 <!--
 **r-lima03/r-lima03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Estou atualmente estudando front-end
+- 🔭 Desenvolvendo projetos pessoais para agregar meu currículo e adquirir mais experiência
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
